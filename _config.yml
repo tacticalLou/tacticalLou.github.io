@@ -13,23 +13,24 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Indiana/Indianapolis
+
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Tactical_Lou
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Come hither with me # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: https://tacticalLou.github.io
 
 github:
-  username: github_username # change to your github username
+  username: tacticalLou # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
